@@ -1,5 +1,6 @@
 # Car-Classification--Don-t-Get-Kicked-by-Lalit-Hire
 I did this project for the Practice!
+NOTE: IPYNB FILE DOES NOT CONTAIN OUTPUT'S DUE TO SIZE ISSUES. 
 📌 Introduction
 This project is based on the "Don't Get Kicked!" dataset from Kaggle, where the goal is to predict whether a used car purchase is a bad buy using structured auction data. Dealers need to avoid bad purchases that may result in losses, and this model helps them make better, data-driven decisions.
 
