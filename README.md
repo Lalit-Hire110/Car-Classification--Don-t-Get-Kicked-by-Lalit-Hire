@@ -4,6 +4,7 @@ I did this project for the Practice!
 NOTE: 1) IPYNB FILE DOES NOT CONTAIN OUTPUT'S DUE TO SIZE ISSUES. 
       2)Dataset has been taken in using API from kaggle. due to it's being over sized.
 
+
 📌 Introduction
 This project is based on the "Don't Get Kicked!" dataset from Kaggle, where the goal is to predict whether a used car purchase is a bad buy using structured auction data. Dealers need to avoid bad purchases that may result in losses, and this model helps them make better, data-driven decisions.
 
