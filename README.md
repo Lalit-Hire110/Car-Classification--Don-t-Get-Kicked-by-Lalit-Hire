@@ -1,4 +1,5 @@
 # Car-Classification--Don-t-Get-Kicked-by-Lalit-Hire
+Authour: Lalit Kailas Hire (BSC Data Science Department of Technology, Savitribai Phule Pune University)
 I did this project for the Practice!
 NOTE: IPYNB FILE DOES NOT CONTAIN OUTPUT'S DUE TO SIZE ISSUES. 
 📌 Introduction
